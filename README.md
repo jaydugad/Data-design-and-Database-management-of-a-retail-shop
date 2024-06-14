@@ -1,0 +1,2 @@
+# Data-design-and-Database-management-of-a-retail-shop
+This project involves designing and managing a retail shop database, including an Entity-Relationship (ER) diagram to outline the data structure, table implementation based on the diagram, and insertion of sample data. Additionally, six queries were created to support key shop operations and data retrieval, enhancing efficiency and decision-making.
